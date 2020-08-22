@@ -14,8 +14,8 @@ def get_info(login, email, sleep=0.1):
 
     z = 0
 
-    USERNAME = "intomask"
-    PASSWORD = "mistercraft228"
+    USERNAME = "*****"
+    PASSWORD = "*****"
 
     bot = instabot.Bot()
     try:
